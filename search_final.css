@@ -1,0 +1,113 @@
+body{
+	background-color: #ffee59;
+	overflow - y:sroll;
+}
+.bT{
+	color: black;
+	font-size: 20;
+	font-family: verdana;
+
+}
+.homepos{
+	position: absolute;
+	top:3%; 
+	left :75%
+}
+.profilepos{
+	position: absolute;
+	top:3%; 
+	left: 85%;
+}
+.topnav {
+  overflow: hidden;
+
+}
+
+.topnav input[type=text] {;
+  margin-top: 0px;
+  font-size: 18px;
+  font-family: verdana;
+  border-width: thin;
+  position:absolute; 
+  top:3%; 
+  left:10%;
+  width:30%;
+  height: 34px;
+  border-radius: 10px;
+}
+.topnav .search-container button {
+  float: none;
+  font-size: 17px;
+  cursor: pointer;
+  margin = 0;
+  position:absolute;  
+  top: 3.1%;
+  left: 35%;
+  width:5%;
+  height: 32px;
+  border-radius: 10px;
+}
+.clearfix {
+  overflow: auto;
+}
+.zoro{
+	position: absolute;
+	top:55%;
+	left:1%;
+	}
+.zoro1 {
+
+	position: absolute;
+	top:55%;
+	left: 26%;
+}
+.zoro2 {
+
+	position: absolute;
+	top:55%;
+	left: 51%;
+}
+.zoro3 {
+
+	position: absolute;
+	top:55%;
+	left: 76%;
+}
+.zoro4 {
+
+	position: absolute;
+	top:90%;
+	left: 76%;
+}
+.zoro5 {
+
+	position: absolute;
+	top:90%;
+	left: 51%;
+}
+.zoro6 {
+
+	position: absolute;
+	top:90%;
+	left: 26%;
+}
+.zoro7 {
+
+	position: absolute;
+	top:90%;
+	left: 1%;
+}
+img{
+	border-radius: 10%;
+}
+.city1 {
+	position: absolute;
+	left:5%;
+	top: 30%;
+}
+.city2 {
+	position: absolute;
+	top: 30%;
+	left : 25%
+}
+
